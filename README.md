@@ -1,6 +1,4 @@
-# Wigan-Council-Spending-Dashboard
-Interactive Streamlit dashboard for analyzing Wigan Council’s spending over £500 by category, supplier, and month
-# 💸 Wigan Council Spending Dashboard
+ # 💸 Wigan Council Spending Dashboard
 
 This is a Streamlit-powered interactive dashboard built to explore and visualize payment transactions over £500 made by Wigan Council. It allows users to filter and analyze spending trends, top suppliers, and spending categories over time.
 
